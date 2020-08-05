@@ -1,7 +1,7 @@
 # Pics App
 
 See pictures of anything, from cars to cities in the Pics App
-Created as part of [Udemy React-Redux course(https://www.udemy.com/course/react-redux)
+Created as part of [Udemy React-Redux course](https://www.udemy.com/course/react-redux)
 
 ## Test on Your Own
 
